@@ -8,4 +8,4 @@ a[2:4]=[100,200]
 print (a)
 a.append(100)
 a.insert(2,200)
-print (a)
+print (a) 
