@@ -11,4 +11,3 @@ for b in b:
     if b==5 :
         break
 Largest=max(a)
-print (Largest)
