@@ -11,5 +11,6 @@ a.insert(2,200)
 print (a)
 a.pop()
 a.pop(1)
-print (a)
+print (a) 
+
 
