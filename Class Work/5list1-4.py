@@ -12,5 +12,3 @@ print (a)
 a.pop()
 a.pop(1)
 print (a) 
-
-
