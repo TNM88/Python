@@ -9,3 +9,7 @@ print (a)
 a.append(100)
 a.insert(2,200)
 print (a)
+a.pop()
+a.pop(1)
+print (a)
+
